@@ -1,0 +1,41 @@
+=============================================Lambourghini URUS S====================================================
+specification
+\
+Body style: Sport Utility Vehicle
+Number of doors: 5
+Cargo volume: 616 L
+Engine cylinder configuration: V engine
+Dimensions: 5,112-5,137 mm L x 2,016-2,026 mm W x 1,618-1,638 mm H
+Driveline: Four-wheel drive
+Configurations
+4.0 V8 S
+4.0 V8 Performante
+============================================================================================
+============================================================================================
+
+POWER (CV) / POWER (KW)
+650 CV / 478 kW
+
+MAX. SPEED
+305 km/h
+
+0-100 km/h
+3.6s
+============================================================================================
+============================================================================================
+
+TECHNICAL SPECIFICATIONS
+DISPLACEMENT
+3,996 cm³ (243.85 cu in)
+MAX. POWER
+650 CV (478 kW) @ 6,000 rpm
+TOP SPEED
+305 km/h
+ACCELERATION 0-100 KM/H (MPH 0-62)
+3.6 s
+NUMBER OF CYLINDERS
+8
+COMBINED CONSUMPTION*
+12,7 l/100km (WLTP)
+COMBINED CO2 EMISSIONS*
+325 g/km (WLTP)

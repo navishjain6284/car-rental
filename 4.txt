@@ -1,0 +1,23 @@
+===================koenigsegg regera===================================
+
+Body and chassis
+\
+Class=======================Sports car Grand tourer (S)
+Body style==================2-door targa top
+Layout======================Longitudinal, mid-engine, rear-wheel-drive
+Doors=======================Dihedral Synchro-Helix
+==============================================================================================================================
+==============================================================================================================================
+OUTPUT
+\
+Power output – Premium gasoline – 1100 hp at 7800 rpm – redline at 8250 rpm
+Torque: 1000 Nm from 2700 to 6170 rpm
+Max torque – 1280 Nm at 4100 rpm
+E85: 1500 hp
+1250 Nm of combustion engine torque
+Electric Drive
+700 hp and up to 900 Nm of electric torque (with torque fill and torque vectoring functionality)
+800 Volt 4.5 kWh flooded liquid cooled battery pack (total weight 75 kg)
+COMBINED NUMBERS (ICE + ED)
+Over 1500 hp (E85) or 1.11 MW
+Over 2000 Nm of torque

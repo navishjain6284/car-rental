@@ -1,0 +1,28 @@
+===================================Land Rover Defender======================================
+Key Specifications of Land Rover Defender
+\
+ARAI Mileage========================14.01 kmpl
+Fuel Type===========================Petrol
+Engine Displacement=================(cc)4997
+No. of cylinder=====================6
+Max Power (bhp@rpm)=================296.36bhp@4000rpm
+Max Torque (nm@rpm)=================650Nm@1500-2500rpm
+Seating Capacity====================5, 6, 7
+TransmissionType====================Automatic
+Boot Space (Litres)=================397
+Fuel Tank Capacity==================89.0
+Body Type===========================SUV
+==========================================================================================================================
+==========================================================================================================================
+Fuel & Performance
+\
+Fuel Type
+Petrol
+Petrol Mileage (ARAI)
+14.01
+Petrol Fuel Tank Capacity (Litres)
+89.0
+Emission Norm Compliance
+BS VI
+Top Speed (Kmph)
+191
